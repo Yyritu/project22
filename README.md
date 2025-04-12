@@ -2,6 +2,6 @@
 
 This project was created from local system
 
-Createed by Ritu Yadav.
+Created by Ritu Yadav.
 
 
